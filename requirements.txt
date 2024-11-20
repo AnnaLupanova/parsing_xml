@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+aiohttp
+sqlalchemy[asyncio]
+asyncpg
+alembic
+authlib
+celery[redis]
+celery[beat]
+requests
+openai
+redis
